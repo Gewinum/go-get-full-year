@@ -63,4 +63,3 @@ Special thanks to the [GetFullYear](https://getfullyear.com) team for providing 
 ---
 
 Made with ❤️ by [Gewinum](https://github.com/Gewinum)
-```
